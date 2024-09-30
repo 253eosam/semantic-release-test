@@ -4,7 +4,7 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/253eosam/semantic-release-test.git"
+    "url": "git@github.com:253eosam/semantic-release-test.git"
   },
   "scripts": {
     "semantic-release": "semantic-release --no-ci --dry-run false",
